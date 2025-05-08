@@ -1,9 +1,9 @@
-import logo from "./images/logo.svg";
+import Navbar from "./components/Navbar";
 
 function App() {
   return (
     <>
-      <h1>Backroads App </h1>
+      <Navbar />
     </>
   );
 }
